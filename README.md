@@ -21,7 +21,7 @@ This repo includes simple lessons and exercises to help you get started with Pyt
     Open the exercises directory to try out exercises and challenges on your own.
 
 3. **Run the code**:
-    You can run each Python file from your terminal or IDE. For example, to run the introduction lesson:
+    You can run each Python file from your terminal or VSCode. For example, to run the introduction lesson:
     ```bash
     python3 topics/introduction.py
     ```
