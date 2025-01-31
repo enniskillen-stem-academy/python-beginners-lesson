@@ -2,7 +2,7 @@
 
 Welcome to the Python Beginners Lesson repository!
 
-This repository is designed for a two-hour coding session for beginners in Python. It includes simple lessons and exercises to help you get started with Python programming. The lessons are organized into two main sections:
+This repo includes simple lessons and exercises to help you get started with Python programming. The lessons are organized into two main sections:
 
 - **Topics**: Contains guided lessons covering basic Python concepts such as variables, conditionals, loops, and functions.
 - **Exercises**: Provides hands-on coding exercises where you can practice what you've learned. There are also challenges for advanced students.
