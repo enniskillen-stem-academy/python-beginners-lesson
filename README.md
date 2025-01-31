@@ -23,11 +23,11 @@ This repository is designed for a two-hour coding session for beginners in Pytho
 3. **Run the code**:
     You can run each Python file from your terminal or IDE. For example, to run the introduction lesson:
     ```bash
-    python topics/introduction.py
+    python3 topics/introduction.py
     ```
     Or to work on an exercise:
     ```bash
-    python exercises/exercise_variables.py
+    python3 exercises/exercise_variables.py
     ```
 
 4. **Experiment and Extend**:
